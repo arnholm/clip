@@ -10,5 +10,5 @@ When starting up for the first time, enter the local LAN IP address of the machi
 
 Linux | Windows
 ------------ | -------------
-![clip_linux](/images/linux.png)| ![clip_windows](/images/clip_windows.png)
+![clip_linux](/images/linux.png)| ![clip_windows](/images/windows.png)
 
