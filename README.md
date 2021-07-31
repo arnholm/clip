@@ -1,3 +1,7 @@
+# Don't use this code
+Use https://github.com/debauchee/barrier instead
+
+
 # clip
 Cross platform clipboard sharing between 2 computers
 
